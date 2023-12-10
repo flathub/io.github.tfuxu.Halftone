@@ -64,7 +64,7 @@
               {
                   "type": "git",
                   "url": "https://github.com/tfuxu/Halftone.git",
-                  "tag": "0.4.0"
+                  "tag": "0.5.0"
               }
           ]
       }
